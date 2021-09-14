@@ -1,0 +1,16 @@
+{
+  "name": "ejercicios3",
+  "version": "1.0.0",
+  "description": "ejercicios",
+  "main": "exerSpaceShipPerformance.js",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "dev": "index.js"
+  },
+  "author": "Joaquin",
+  "license": "ISC"
+}
