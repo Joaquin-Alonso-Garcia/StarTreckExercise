@@ -26,3 +26,5 @@ Caso	Tiempo de funcionamiento
 6	50 minutos
 7	50 minutos
 8	0 minutos
+
+**To run the test: $yarn run test --watchAll;
